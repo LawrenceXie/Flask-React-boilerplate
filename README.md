@@ -45,6 +45,10 @@ sudo pip install flask
 Clone the repository and rename it. These instructions assume a name of `newproject` created in the home directory and reachable at `~/newproject`.
 
 ```
+cd ~/
+git clone https://github.com/LawrenceXie/ProjectTemplate.git newproject
+```
+
 Install the frontend project.
 
 ```
